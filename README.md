@@ -1,2 +1,3 @@
 # xml_app
-A php applications exploiting xml documents
+A php application exploiting xml as a class project 
+exploiting xml document
